@@ -1,0 +1,45 @@
+.header {
+    text-align:center;
+}
+body{
+background-color: rgb(255, 255, 255);
+}
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.stripe{
+height: 200px;
+width: 600px;
+
+
+}
+.black{
+background-color: black;
+
+}
+.red{
+    background-color: #CC092F	;
+
+}
+.flag{
+   margin:auto; 
+   width: 600px;
+   height: 400px;
+   position: relative;
+    }
+.body{
+width:100%;
+}
+    .picture{
+       height:200px;
+       
+    }
+    .img{
+        position:absolute;
+        height:200px;
+        text-align: center;
+         left: 210px;
+		 top:100px;
+    }

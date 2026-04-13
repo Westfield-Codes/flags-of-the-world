@@ -1,0 +1,30 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.stripe{
+height: 200px;
+width: 800px;
+}
+.red{
+background-color: red;
+}
+.gold{
+background-color:#fae140 ;
+}
+.black{
+background-color: black;
+}
+.flag{
+   margin:auto; 
+   width: 800px;
+   height: 600px;
+}
+.body{
+width:100%;
+}

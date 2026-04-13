@@ -1,0 +1,43 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.stripe{
+height: 450px;
+width: 300px;
+margin:auto;
+float:left;
+}
+
+.blue{
+background-color: #0044B0;
+}
+
+.yellow{
+background-color:#FFD300;
+}
+
+.red{
+background-color: #CD022B;
+}
+
+.flag{
+   margin:auto; 
+   width: 900px;
+   height: 450px;
+}
+
+.body{
+width:100%;
+}
+
+img {
+    height:250px;
+    margin:auto;
+    display:block;
+}
