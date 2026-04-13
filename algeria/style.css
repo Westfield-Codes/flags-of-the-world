@@ -1,0 +1,43 @@
+.header {
+    text-align:center;
+}
+body{
+background-color: rgb(236, 230, 230);
+}
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.stripe{
+height: 100%;
+width: 300px;
+float: left;
+}
+ 
+.flag{
+   width: 600px;
+   height: 400px;
+   margin: auto;
+   position: relative;
+}   
+    .blue{
+        background-color: #012169;
+    }
+    .yellow{
+        background-color: #F3D54E;
+    }
+    .img{
+      position:absolute;
+      top:70px;
+      left: 178px;
+    }
+    img{
+        height:250px
+    }
+    .green{
+        background-color: #007A33	;
+    }
+    .white{
+        background-color: white;
+    }

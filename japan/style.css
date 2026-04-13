@@ -1,0 +1,40 @@
+.header {
+    text-align:center;
+}
+body{
+background-color: rgb(218, 223, 223);
+}
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.stripe{
+height: 200px;
+width: 600px;
+}
+.white{
+background-color: #f4f5f7;
+
+}
+.black{
+background-color: black;
+}
+.flag{
+   margin:auto; 
+   width: 600px;
+   height: 400px;
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+}
+.body{
+width:100%;
+}
+.circle {
+        width: 240px; 
+        height: 240px; 
+        background-color: rgb(176, 0, 15); 
+        border-radius: 50%;
+    }
