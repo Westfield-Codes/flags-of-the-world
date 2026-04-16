@@ -33,7 +33,10 @@ a {
 .flag{
    margin:auto;
 }
-img{
-    width:261px;
-    height:200;
+.red.stripe img{
+    width: 140px;
+    height:100;
+    position:relative;
+    top: 30px;
+    left:15%;
 }
