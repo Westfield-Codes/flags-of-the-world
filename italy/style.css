@@ -13,21 +13,19 @@ a {
     display:block;
 }
 .stripe {
-    width:100%;
-    height: 200px;
-
-}
-.orange{
-    background:#FF671F;
-}
-.white{
-    background:#FFFFFF;
-    text-align:center;
+    height:100%;
+    width:200px;
+    float:left;
 }
 .green{
-    background:#046A38;
+    background:#008C45;
 }
-
-img {
-    width:22%;
+.white{
+    background:#F4F9FF;
+}
+.red{
+    background:#CD212A;
+}
+body {
+    text-align:center;
 }
