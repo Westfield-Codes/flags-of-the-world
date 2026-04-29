@@ -13,8 +13,8 @@ a {
     display:block;
     box-sizing:border-box;
     border-style: solid;
-    border-color: #11457E;
-    border-width: 600px;
+    border-color: #FFFFFF #11457E #D7141A;
+    border-width: 200px 0 200px 300px;
 }
 .stripe {
     height:100%;
