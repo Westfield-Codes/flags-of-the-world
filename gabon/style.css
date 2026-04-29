@@ -1,25 +1,22 @@
 .header {
     text-align:center;
 }
-
 a {
     display:block;
     width:100%;
     text-align:center;
 }
-
 .flag {
-    width:900px;
-    height:600px;
+    width:600px;
+    height:400px;
     margin:auto;
+    display:block;
 }
-
 .stripe {
     width:100%;
-    height: 200px;
+    height: 130px;
 
 }
-
 .blue{
     background:#4664B2;
 }
